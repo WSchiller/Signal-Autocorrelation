@@ -40,17 +40,8 @@ Trial #10       MegaMultsPerSecond: 791.90
 Max Performance: 837.63 MegaMultsPerSecond
 
 
-----------CUDA DG2X------------------------------------------
-Number of Threads Per Block: 32   MegaMults/Second = 871815.4087
-Number of Threads Per Block: 64   MegaMults/Second = 854846.3892
-Number of Threads Per Block: 128  MegaMults/Second = 765645.9007
-Number of Threads Per Block: 256  MegaMults/Second = 771951.8693
-
-
-
-
- 
-
-
-
-
+----------CUDA DGX-2------------------------------------------
+Number of Threads Per Block: 32   MegaMults/Second = 871815.41
+Number of Threads Per Block: 64   MegaMults/Second = 854846.39
+Number of Threads Per Block: 128  MegaMults/Second = 765645.91
+Number of Threads Per Block: 256  MegaMults/Second = 771951.87
