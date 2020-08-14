@@ -1,0 +1,56 @@
+-----1 thread OpenMP----------------------- 
+Trial #1        MegaMultsPerSecond: 326.75
+Trial #2        MegaMultsPerSecond: 325.16
+Trial #3        MegaMultsPerSecond: 332.03
+Trial #4        MegaMultsPerSecond: 332.19
+Trial #5        MegaMultsPerSecond: 332.24
+Trial #6        MegaMultsPerSecond: 332.17
+Trial #7        MegaMultsPerSecond: 332.11
+Trial #8        MegaMultsPerSecond: 332.19
+Trial #9        MegaMultsPerSecond: 319.47
+Trial #10       MegaMultsPerSecond: 329.87
+Number of Threads: 1    Max Performance: 332.24 MegaMultsPerSecond
+
+
+-----8 thread OpenMP----------------------- 
+Trial #1        MegaMultsPerSecond: 2096.49
+Trial #2        MegaMultsPerSecond: 2332.48
+Trial #3        MegaMultsPerSecond: 2355.00
+Trial #4        MegaMultsPerSecond: 2345.86
+Trial #5        MegaMultsPerSecond: 2348.35
+Trial #6        MegaMultsPerSecond: 2347.75
+Trial #7        MegaMultsPerSecond: 2342.03
+Trial #8        MegaMultsPerSecond: 2324.89
+Trial #9        MegaMultsPerSecond: 2313.08
+Trial #10       MegaMultsPerSecond: 2314.08 
+Number of Threads: 8	Max Performance: 2355.00 MegaMultsPerSecond
+
+
+----------SIMD----------------------------
+Trial #1        MegaMultsPerSecond: 771.32
+Trial #2        MegaMultsPerSecond: 834.30
+Trial #3        MegaMultsPerSecond: 831.48
+Trial #4        MegaMultsPerSecond: 741.48
+Trial #5        MegaMultsPerSecond: 837.27
+Trial #6        MegaMultsPerSecond: 837.14
+Trial #7        MegaMultsPerSecond: 837.63
+Trial #8        MegaMultsPerSecond: 779.74
+Trial #9        MegaMultsPerSecond: 748.76
+Trial #10       MegaMultsPerSecond: 791.90
+Max Performance: 837.63 MegaMultsPerSecond
+
+
+----------CUDA DG2X------------------------------------------
+Number of Threads Per Block: 32   MegaMults/Second = 871815.4087
+Number of Threads Per Block: 64   MegaMults/Second = 854846.3892
+Number of Threads Per Block: 128  MegaMults/Second = 765645.9007
+Number of Threads Per Block: 256  MegaMults/Second = 771951.8693
+
+
+
+
+ 
+
+
+
+
