@@ -40,7 +40,7 @@ Trial #10       MegaMultsPerSecond: 791.90
 Max Performance: 837.63 MegaMultsPerSecond
 
 
-----------CUDA DGX-2------------------------------------------
+----------CUDA Nvidia DGX-2------------------------------------------
 Number of Threads Per Block: 32   MegaMults/Second = 871815.41
 Number of Threads Per Block: 64   MegaMults/Second = 854846.39
 Number of Threads Per Block: 128  MegaMults/Second = 765645.91
