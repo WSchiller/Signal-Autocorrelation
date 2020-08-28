@@ -60,7 +60,7 @@ int main() {
 			}
 			// Sums[1]...Sums[512]
 			if (shift >= 1 && shift <= 512 && j == 0) {
-				Sums[shift] = sum;	// note the "fix #2" from false sharing if you are using OpenMP
+				Sums[shift] = sum;
 				printf("Shift Number: %d\tSum: %5.2lf\n", shift, sum);
 			}
 			
